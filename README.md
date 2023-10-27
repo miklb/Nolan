@@ -6,7 +6,6 @@ The goal of this project is to be a genuinely minimalistic blog built with [Elev
 
 ## 1.0 Milestone
 
-Goals:
 * full documentation for:
   * CloudCannon
   * Eleventy
