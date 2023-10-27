@@ -32,5 +32,5 @@ Do whatcha like.
 
 ## Post Script
 
-I've been building and thinking about how blogs are built for almsot two decades. I'm excited about the renaissance of sorts in blogging and the disruption of the social media landscape. If not always a follower, I've always been a beleiver in the principals of the IndieWeb. This project will be my attempt to take all of the lessons and perspectives I've encountered along the way and build something that I hope helps more folks get on board with the IndieWeb.
+I've been building and thinking about how blogs are built for almsot two decades. I'm excited about the renaissance of sorts in blogging and the disruption of the social media landscape. If not always a follower, I've always been a beleiver in the principals of the [IndieWeb](https://indieweb.org). This project will be my attempt to take all of the lessons and perspectives I've encountered along the way and build something that I hope helps more folks get on board with the IndieWeb.
 
