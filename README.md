@@ -2,7 +2,7 @@
 
 [Kubrick](https://wordpress.org/themes/default/) was my first exposure to developing for the web. As a nod to that, I've chosen another director to name this project after. (Naming things is hard.)
 
-The goal of this project is to be a genuinely minimalistic blog built with [Eleventy](https://www.11ty.dev/) with support for [CloudCannon](https://cloudcannon.com/). 
+The goal of this project is to be a genuinely minimalistic blog built with [Eleventy](https://www.11ty.dev/) with full support for [CloudCannon](https://cloudcannon.com/). 
 
 ## 1.0 Milestone
 
@@ -11,7 +11,7 @@ Goals:
   * Articles
   * Notes
   * Photos
-* post and successfully syndicate through brid.gy to:
+* post an image through CloudCannon and successfully syndicate through brid.gy to:
     * Mastodon
     * Bluesky
 * send and receive webmentions using webmentions.io
@@ -20,6 +20,8 @@ Goals:
 As stated, the attempt is to be minimal in both design and markup. Focus is on responsiveness and readability. See also accessibility.
 
 I utilze PostCSS (probably not as well as I should) to compile the CSS. Primarily I use it for including files and smushing it all together but it does run through preset-env. Room for improvement here. I've looked long and hard at ways folks organize their CSS and for a blog one file could probably be fine but I like to separate them by function. I haven't run into any specificity issues with how I'm compiling them but again, it's a minimalist blog. Your milage may vary.
+
+I'm using Liquid because I like to use `.html` files and Liquid is what I picked up from using Jekyll. The only time I've regretted that decision is looking at Eleventy shortcodes, specifically for images.
 
 ## License
 
