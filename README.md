@@ -19,7 +19,7 @@ Goals:
 ## About the markup
 As stated, the attempt is to be minimal in both design and markup. Focus is on responsiveness and readability. See also accessibility.
 
-I utilze PostCSS (probably not as well as I should) to compile the CSS. Primarily I use it for including files and smushing it all together but it does run through present-env. Room for improvement here. I've looked long and hard at ways folks organize their CSS and for a blog one file could probably be fine but I like to separate them by function. I haven't run into any specificity issues with how I'm compiling them but again, it's a minimalist blog. Your milage may vary.
+I utilze PostCSS (probably not as well as I should) to compile the CSS. Primarily I use it for including files and smushing it all together but it does run through preset-env. Room for improvement here. I've looked long and hard at ways folks organize their CSS and for a blog one file could probably be fine but I like to separate them by function. I haven't run into any specificity issues with how I'm compiling them but again, it's a minimalist blog. Your milage may vary.
 
 ## License
 
